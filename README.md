@@ -8,3 +8,7 @@ Arrow keys control some size variables, with Up/Down controlling the overall siz
 The fire particle is more simple, being made entirely with a custom sprite I made and some particle configuration. The size of the particles changes based on the relative volume of the background music.
 
 Background music is Crypt of the Necrodancer - Tombtorial.
+
+==========================================================================================================================================
+NOTE- THE FIRE DOESN'T APPEAR IN THE WEB VERSION FOR SOME REASON. I suspect it might just be offscreen due to some wacky resolution issues since the music still plays and it's on the same object, but after so many hours fixing other bugs I'm too lazy to fix it. Check the standalone if you want to see it.
+==========================================================================================================================================
